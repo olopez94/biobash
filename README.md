@@ -6,5 +6,5 @@
     <li><code> cat rnaFile.txt | tr T U</code> </li>
     <li><code> tr T U < rnaFile.txt </code></li
   </ul>
-
-<h3> DNA Sequence Complement and Reverse  </h3>
+      
+<h2>DNA</h2>
