@@ -1,4 +1,4 @@
-<h1> biobash </h1>
+<h1> BIOBASH </h1>
 <p> Small codes for biothings on BASH </p>
 
 <h2> Translate DNA into RNA </h2>
