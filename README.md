@@ -7,4 +7,4 @@
     <li><code> tr T U < rnaFile.txt </code></li
   </ul>
 
-<h2> DNA Sequence Complement and Reverse  </h2>
+<h3> DNA Sequence Complement and Reverse  </h3>
